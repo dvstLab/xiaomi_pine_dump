@@ -1,0 +1,10 @@
+====================
+     06-26-2021
+====================
+
+   * packages/apps/FlipFlap
+344e2c7 FlipFlap: Don't interrupt
+
+   * packages/apps/crDroidSettings
+42d5bdf8 Add sponsor link (#777)
+
